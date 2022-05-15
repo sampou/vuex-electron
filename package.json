@@ -1,5 +1,5 @@
 {
-  "name": "vuex-electron",
+  "name": "@sampou/vuex-electron",
   "version": "2.0.1",
   "description": "Vuex Electron",
   "keywords": [
